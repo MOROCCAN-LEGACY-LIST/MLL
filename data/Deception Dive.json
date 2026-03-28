@@ -1,0 +1,24 @@
+{
+    "id": 34379100,
+    "name": "Deception Dive",
+    "author": "Rustam",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "SwinGo",
+    "verification": "https://youtu.be/sL0_pD7iX8E?si=-S5L93_f3g9U10md",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "SolerioX",
+            "link": "https://youtu.be/UbCQl7qmSmU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=v0R8dZdPWzs&t=2s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
