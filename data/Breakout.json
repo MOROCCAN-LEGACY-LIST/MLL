@@ -1,11 +1,11 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 25241513,
+    "name": "Breakout",
+    "author": "Surv",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "verifier": "ZakScottGames",
+    "verification": "https://youtu.be/G5bD3e7e9z0?si=9-X0GBDzdS4jWlEw",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
