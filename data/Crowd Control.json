@@ -1,0 +1,42 @@
+{
+    "id": 57436521,
+    "name": "Crowd Control",
+    "author": "zDeadlox",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "TahaBht",
+    "verification": "https://youtu.be/_FHnb5ZU5Gc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Cosmo",
+            "link": "https://www.youtube.com/watch?v=LYX0-tlUeN4",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+             "user": "ZakScottGames",
+            "link": "https://youtu.be/5JCeZSw5YDY",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=kU8ZADhsfTA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PDoink",
+            "link": "https://www.youtube.com/watch?v=KOjv84FkTF8&list=PLqx-pm1_4eyRbxtvsTuCgnM_i1FcCZ1Kc&index=49&pp=iAQB",
+            "percent": 100,
+            "hz": 360 
+        },
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=WzlJ5R595hM&t=248s",
+            "percent": 100,
+            "hz": 360  
+        }
+    ]
+}
