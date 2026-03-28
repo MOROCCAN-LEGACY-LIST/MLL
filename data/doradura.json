@@ -1,0 +1,18 @@
+{
+    "id": 77114615,
+    "name": "doradura",
+    "author": "IvashkaUA",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "AdyaGD",
+    "verification": "https://youtu.be/-rovb5w0ens?si=nToXhdVg0nX-k7wR",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "vainy",
+            "link": "https://youtu.be/-G05av8ZPdM?si=U2yP2ta-jHrLyblf",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
