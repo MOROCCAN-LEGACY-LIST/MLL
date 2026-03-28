@@ -1,0 +1,30 @@
+{
+    "id": 54917442,
+    "name": "CYCLONE",
+    "author": "BIANOX",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/YLCVo6LWBXo",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScottGames",
+            "link": "https://youtu.be/vz23qoIZoZA",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Nokirachan",
+            "link": "https://youtu.be/TWiFW7oX7hI?si=sKg_dRnFHAwiQNV1",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Falco321",
+            "link": "https://youtu.be/GFLlBKeK0CA?si=5KGZOROGXIhE9iQc",
+            "percent": 100,
+            "hz": 360
+        }   
+    ]
+}
