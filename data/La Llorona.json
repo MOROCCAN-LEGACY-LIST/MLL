@@ -1,17 +1,12 @@
 {
-    "id": 92362284,
+    "id": 57436521,
     "name": "La Llorona",
     "author": "cherry team",
-    "creators": ["cherry team"],
+    "creators": [],
     "verifier": "Attis_TOXIC",
     "verification": "https://www.youtube.com/watch?v=gdFUlDhANMM",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
+    "percentToQualify": "100",
+    "password": "Free To Copy",
     "records": [
-        {
-            "user": "Attis_TOXIC",
-            "link": "https://www.youtube.com/watch?v=gdFUlDhANMM",
-            "percent": 100,
-        }
     ]
 }
