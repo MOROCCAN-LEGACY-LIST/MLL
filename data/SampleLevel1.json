@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
+    "id": 95228237,
+    "name": "ZOOOOOOOOOOOOOOOOOOOM",
+    "author": "awesomeme360",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "verifier": "vainy",
+    "verification": "https://youtu.be/o2YE6g77qFA?si=63kC8uo_ZG0c1B7O",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Yperm",
+            "link": "https://youtu.be/q12OtZgZrFA?si=8Sa1QAFvu1ESup2U",
             "percent": 100,
-            "hz": 360
+            "hz": 
         }
     ]
 }
