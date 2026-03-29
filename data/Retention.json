@@ -1,0 +1,24 @@
+{
+    "id": 20077821,
+    "name": "Retention",
+    "author": "WOOGI1411",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "FlameShooter",
+    "verification": "https://www.youtube.com/watch?v=jjeSf4lw4uY",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScotGames",
+            "link": "https://www.youtube.com/watch?v=blFPPrdwV-o&list=PLKbAbro7rWzhhd8_deB4k0zxtdlvQpIHg",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "Termie",
+            "link": "https://youtu.be/AAgoXoIMLF4",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
