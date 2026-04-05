@@ -1,0 +1,54 @@
+{
+    "id": 20761188,
+    "name": "Allegiance",
+    "author": "nikroplays",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "ZackLack",
+    "verification": "https://youtu.be/__Vh3-gZSsc",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScottGames",
+            "link": "https://youtu.be/0IUyP__QmUQ",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Cosmo",
+            "link": "https://youtu.be/hKS_AJTLXkc?si=T8EnwD3nctjWqtF8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Termie",
+            "link": "https://youtu.be/6ZsADXcaM5o?si=LlZPHUsfFdK-DrMF",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=UwReGy78dNw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "melody2prime",
+            "link": "https://www.youtube.com/watch?v=vx5QTJ0gxP8&pp=0gcJCa0JAYcqIYzv",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Alex",
+            "link": "https://youtu.be/02aoaEGeofc?si=W5jY8G60RAMujBac",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=WzlJ5R595hM&t=248s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
