@@ -1,0 +1,24 @@
+{
+    "id": 32688321,
+    "name": "Incipient",
+    "author": "LevelUploader",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Cosmo",
+    "verification": "https://www.youtube.com/watch?v=1iqtwPTWS0s",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScottGames",
+            "link": "https://www.youtube.com/@ZakScottGames",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=1jHj6-FehnM",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
