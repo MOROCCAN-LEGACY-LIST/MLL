@@ -1,0 +1,18 @@
+{
+    "id": 71728635,
+    "name": "Helios",
+    "author": "Canonlaw",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "FlameShooter",
+    "verification": "https://www.youtube.com/watch?v=wuA8jTuUVvE",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScottGames",
+            "link": "https://youtu.be/F0ZkiyFmOpU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
