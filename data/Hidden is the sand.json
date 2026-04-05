@@ -1,0 +1,18 @@
+{
+    "id": 87481937,
+    "name": "Hidden is the sand",
+    "author": "ASBCHazel",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/2XWksOnUtiI?si=DvecpxDqtVtvxi32",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "melody2prime",
+            "link": "https://youtu.be/-bLqe_ixAg8",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
