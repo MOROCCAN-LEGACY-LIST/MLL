@@ -1,0 +1,18 @@
+{
+    "id": 82598548,
+    "name": "Voided",
+    "author": "justXSoos",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/ttVfc6j3gqo",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=WzlJ5R595hM&t=248s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
