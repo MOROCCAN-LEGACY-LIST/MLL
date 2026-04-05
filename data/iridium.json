@@ -1,0 +1,18 @@
+{
+    "id": 91386392,
+    "name": "iridium",
+    "author": "spark",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "ZakScottGames",
+    "verification": "https://www.youtube.com/watch?v=K81THEpn2-0",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "SampleVictor!",
+            "link": "https://www.youtube.com/watch?v=K81THEpn2-0",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
