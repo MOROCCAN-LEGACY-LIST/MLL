@@ -9,8 +9,44 @@
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "ZakScottGames",
+            "link": "https://www.youtube.com/watch?v=4a6COaWpNbo&list=PLKbAbro7rWzhhd8_deB4k0zxtdlvQpIHg&index=10",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=vEDmSY8w2D0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "SolerioX",
+            "link": "https://youtu.be/o7nQPX5FwnI",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "MewJohto",
+            "link": "https://www.youtube.com/watch?v=S_MBArFVhgA&t=42s",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Ylissen",
+            "link": "https://www.youtube.com/watch?v=k4uT6ZPveM0",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "pmqadzx",
+            "link": "https://www.youtube.com/watch?v=vL2ofG-QNvo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=WzlJ5R595hM&t=248s",
             "percent": 100,
             "hz": 360
         }
