@@ -1,0 +1,30 @@
+{
+    "id": 78687216,
+    "name": "Disruption",
+    "author": "Ka1sa",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/nlOEO6zE2SE",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScottGames",
+            "link": "https://www.youtube.com/watch?v=4c6aO0xh5e8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=fRaeXbts5XM",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "PDoink",
+            "link": "https://www.youtube.com/watch?v=5JGdKIAtMKg",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
