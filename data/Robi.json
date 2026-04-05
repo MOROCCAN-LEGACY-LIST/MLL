@@ -1,0 +1,18 @@
+{
+    "id": 88172786,
+    "name": "Robi",
+    "author": "Robianny",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "ZakScottGames",
+    "verification": "https://www.youtube.com/watch?v=CS-BSDmztII",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=FJELrqadd_4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
