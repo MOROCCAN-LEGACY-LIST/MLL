@@ -1,0 +1,24 @@
+{
+    "id": 25449475,
+    "name": "Fexty",
+    "author": "SkyJax",
+    "creators": ["Ozpectro", "Creator1", "Creator2"],
+    "verifier": "Zer0Alchemist",
+    "verification": "https://www.youtube.com/watch?v=_fx3qVBtoYo",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScotGames",
+            "link": "https://youtu.be/eXx8StuN5TU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "vainy",
+            "link": "https://youtu.be/pTtvu6Y4a-k?si=4NB-PXyCuDfSIMoT",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

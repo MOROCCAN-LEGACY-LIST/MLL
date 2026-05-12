@@ -1,0 +1,18 @@
+{
+    "id": 71136146,
+    "name": "Acrozis",
+    "author": "Renedi",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Vainy",
+    "verification": "https://youtu.be/OS8bwgE4rQ8?si=wrYdn4R6hbBckVaN",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Sample_Victor_1",
+            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

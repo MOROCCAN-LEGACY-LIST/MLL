@@ -1,0 +1,18 @@
+{
+    "id": 48020496,
+    "name": "Volume",
+    "author": "Metalface221",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "ZakScotGames",
+    "verification": "https://youtu.be/0znlIjG95IA?si=lRoED6TMM9QiKsYR",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "vainy",
+            "link": "https://youtu.be/7u-NZPX_FmA?si=u8v8xS7pj1P8Gs3F",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/DuvMsMHRSXM",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=AFvTd8hrgzE",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=WzlJ5R595hM&t=248s",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
