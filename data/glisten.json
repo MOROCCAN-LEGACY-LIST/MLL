@@ -1,0 +1,17 @@
+{
+    "id": 74924716,
+    "name": "glisten",
+    "author": "Squizaaard",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "FlameShooter",
+    "verification": "https://www.youtube.com/watch?v=MxMBmeBhUOs",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Cupid",
+            "link": "https://www.youtube.com/watch?v=FDT4IDdW_vI&t=7s",
+            "percent": 100,
+        }
+    ]
+}
