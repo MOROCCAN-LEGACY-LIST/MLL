@@ -1,0 +1,18 @@
+{
+    "id": 60197839,
+    "name": "Percipitance",
+    "author": "Extravagon",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/g5dQhyu4vec?si=bYX-Gtj0GUidy6MH",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=RIWvitHsmes",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
