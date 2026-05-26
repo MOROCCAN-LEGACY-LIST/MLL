@@ -1,0 +1,42 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "TahaBht",
+    "verification": "https://youtu.be/_NYud0TopHY",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=UuvBt3qpor8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "Tlosti",
+            "link": "https://youtu.be/JfhahXtSQGU",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "pixaard",
+            "link": "https://www.youtube.com/live/ySG47xqkVS8?si=9Ou6zRpI9Q4Yn6NN",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "melody2prime",
+            "link": "https://www.youtube.com/watch?v=c3TW3R8iLl8",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zdgd",
+            "link": "https://www.youtube.com/watch?v=4EjKe-3TR-E",
+            "percent": 100,
+            "hz": 360
+        },
+
+    ]
