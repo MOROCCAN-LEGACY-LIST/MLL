@@ -1,0 +1,22 @@
+{
+    "id": 81257586,
+    "name": "Anya III",
+    "author": "Anya21",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/R5V2WqPT27Q",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScotGames",
+            "link": "https://www.youtube.com/watch?v=E_RIR5HGv0Y",
+            "percent": 100,
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=KtPCqdcT-kc",
+            "percent": 100,
+        }
+    ]
+}
