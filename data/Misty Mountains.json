@@ -1,0 +1,17 @@
+{
+    "id": ,
+    "name": "Misty Mountains",
+    "author": "",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "",
+    "verification": "",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": ,
+            "hz": 360
+        }
+    ]
