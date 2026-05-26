@@ -1,0 +1,30 @@
+{
+    "id": 56916170,
+    "name": "bang gang (2P)",
+    "author": "Danzmen",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://www.youtube.com/watch?v=Wetc12AdR3U",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScotGames",
+            "link": "https://www.youtube.com/watch?v=4rKuyPcrOWw",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "zdgd",
+            "link": "https://www.youtube.com/watch?v=beUww4IBlXo",
+            "percent": 100,
+            "hz": 360
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=6UQoWVLFDw4",
+            "percent": 100,
+            "hz": 360
+        }
+    ]
+}
