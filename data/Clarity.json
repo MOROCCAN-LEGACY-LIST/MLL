@@ -1,0 +1,18 @@
+{
+    "id": 112412828,
+    "name": "Clarity",
+    "author": "Hypno",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "FlameShooter",
+    "verification": "https://www.youtube.com/watch?v=zXkD5qrgP7g",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "",
+            "link": "",
+            "percent": ,
+            "hz": 
+        }
+    ]
+}
