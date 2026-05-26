@@ -1,0 +1,17 @@
+{
+    "id": 48454650,
+    "name": "Penombre",
+    "author": "ZephiroX",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "vainy",
+    "verification": "https://youtu.be/9Okpb0IErsM",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScotGames",
+            "link": "https://www.youtube.com/watch?v=ULjwLfjSpGw",
+            "percent": 100,
+        }
+    ]
+}
