@@ -1,0 +1,92 @@
+{
+    "id": 3979721,
+    "name": "Cataclysm",
+    "author": "Ggb0y",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "swingoGD",
+    "verification": "https://www.youtube.com/watch?v=wuHcRrkcD9M",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "Cosmo",
+            "link": "https://www.youtube.com/watch?v=xvxjs67cNIY",
+            "percent": 100,
+        },
+        { 
+            "user": "ZakScotGames",
+            "link": "https://www.youtube.com/watch?v=yfTdNLYiFt0",
+            "percent": 100,
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=frNT3D2JqjY",
+            "percent": 100,
+        },
+        { 
+            "user": "Dawad",
+            "link": "",
+            "percent": 100,
+        },
+        { 
+            "user": "SolerioX",
+            "link": "https://youtu.be/awCLsZ9niPg",
+            "percent": 100,
+        },
+        { 
+            "user": "Zer0Alchemist",
+            "link": "https://drive.google.com/file/d/1b9wCwL4XKLYBVkkjqZak5Bb2AQL6wpic/view?usp=drive_link",
+            "percent": 100,
+        },
+        { 
+            "user": "MewJohto",
+            "link": "https://www.youtube.com/watch?v=LtcNUkqdd2I&t=12s",
+            "percent": 100,
+        },
+        { 
+            "user": "zdgd",
+            "link": "https://www.youtube.com/watch?v=Z1-WE1-bAgQ",
+            "percent": 100,
+        },
+        { 
+            "user": "Alex",
+            "link": "https://youtu.be/tp-A0JcTt1k?si=50Cbi6O5QDTa03Js",
+            "percent": 100,
+        },
+        { 
+            "user": "vainy",
+            "link": "https://youtu.be/BBL5QNxCk7E?si=GosftCOeYOtztQQP",
+            "percent": 100,
+        },
+        { 
+            "user": "Tlosti",
+            "link": "https://youtu.be/fQwvOgJ5fR4",
+            "percent": 100,
+        },
+        { 
+            "user": "PDoink",
+            "link": "https://www.youtube.com/watch?v=lmc_bowFKn8",
+            "percent": 100,
+        },
+        { 
+            "user": "Ylissen",
+            "link": "https://youtu.be/milkVLuAse0",
+            "percent": 100,
+        },
+        { 
+            "user": "melody2prime",
+            "link": "https://www.youtube.com/shorts/GPE1qkHjJUM",
+            "percent": 100,
+        },
+        { 
+            "user": "Jiloo8GD",
+            "link": "https://www.youtube.com/watch?v=DhH4z3meWJA&t=99s",
+            "percent": 100,
+        },
+        {
+            "user": "pixaard",
+            "link": "https://youtu.be/ShQ3CQxQUwQ",
+            "percent": 100,
+        }
+    ]
+}
