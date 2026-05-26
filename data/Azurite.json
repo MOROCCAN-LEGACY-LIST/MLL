@@ -1,0 +1,27 @@
+{
+    "id": 62214792,
+    "name": "Azurite",
+    "author": "Sillow",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Cosmo",
+    "verification": "https://www.youtube.com/watch?v=KL9Y7QaqnCE",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "ZakScotGames",
+            "link": "https://youtu.be/a3qS41f_YW4",
+            "percent": 100,
+        },
+        {
+            "user": "vainy",
+            "link": "https://youtu.be/SgaLas7fX-o",
+            "percent": 100,
+        },
+        {
+            "user": "PDoink",
+            "link": "https://www.youtube.com/watch?v=6CCZqGSoB1M",
+            "percent": 100,
+        },
+    ]
+}
