@@ -1,17 +1,13 @@
 {
-    "id": ,
+    "id": 60708767,
     "name": "Misty Mountains",
-    "author": "",
+    "author": "We4therMan",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "",
-    "verification": "",
+    "verifier": "mmzw",
+    "verification": "https://www.themoroccandemonlist.com/classic/level/60708767",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 360
-        }
+
     ]
+}
