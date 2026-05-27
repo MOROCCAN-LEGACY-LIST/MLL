@@ -1,17 +1,13 @@
 {
-    "id": ,
+    "id": 95764848,
     "name": "Mizureta",
-    "author": "",
+    "author": "dutchiee",
     "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "",
-    "verification": "",
+    "verifier": "mmzw",
+    "verification": "https://www.themoroccandemonlist.com/classic/level/95764848",
     "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": ,
-            "hz": 360
-        }
+
     ]
+}
