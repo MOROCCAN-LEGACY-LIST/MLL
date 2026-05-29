@@ -11,20 +11,17 @@
         {
             "user": "ZakScotGames",
             "link": "https://youtu.be/vz23qoIZoZA",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "Nokirachan",
-            "link": "https://youtu.be/TWiFW7oX7hI?si=sKg_dRnFHAwiQNV1",
-            "percent": 100,
-            "hz": 360
+            "link":"https://youtu.be/TWiFW7oX7hI?si=sKg_dRnFHAwiQNV1",
+            "percent": 100
         },
         {
             "user": "Falco321",
             "link": "https://youtu.be/GFLlBKeK0CA?si=5KGZOROGXIhE9iQc",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         }   
     ]
 }
