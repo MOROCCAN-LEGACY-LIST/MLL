@@ -11,32 +11,27 @@
         {
             "user": "Cosmo",
             "link": "https://www.youtube.com/watch?v=LYX0-tlUeN4",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
              "user": "ZakScotGames",
             "link": "https://youtu.be/5JCeZSw5YDY",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "FlameShooter",
             "link": "https://www.youtube.com/watch?v=kU8ZADhsfTA",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "PDoink",
             "link": "https://www.youtube.com/watch?v=KOjv84FkTF8&list=PLqx-pm1_4eyRbxtvsTuCgnM_i1FcCZ1Kc&index=49&pp=iAQB",
-            "percent": 100,
-            "hz": 360 
+            "percent": 100
         },
         {
             "user": "mmzw",
             "link": "https://www.youtube.com/watch?v=WzlJ5R595hM&t=248s",
-            "percent": 100,
-            "hz": 360  
+            "percent": 100
         }
     ]
 }
