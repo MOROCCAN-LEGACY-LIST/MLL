@@ -11,14 +11,12 @@
         {
             "user": "ZakScotGames",
             "link": "https://www.youtube.com/watch?v=E_RIR5HGv0Y",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "FlameShooter",
             "link": "https://www.youtube.com/watch?v=KtPCqdcT-kc",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         }
     ]
 }
