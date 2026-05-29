@@ -11,14 +11,12 @@
         {
             "user": "SolerioX",
             "link": "https://youtu.be/UbCQl7qmSmU",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         },
         {
             "user": "mmzw",
             "link": "https://www.youtube.com/watch?v=v0R8dZdPWzs&t=2s",
-            "percent": 100,
-            "hz": 360
+            "percent": 100
         }
     ]
 }
