@@ -1,0 +1,32 @@
+{
+    "id": 93916671,
+    "name": "Shukufuku",
+    "author": "Joker179114",
+    "creators": ["Creator1", "Creator2", "Creator3"],
+    "verifier": "Tlosti",
+    "verification": "https://youtu.be/MPapW8_rfD0",
+    "percentToQualify": 100,
+    "password": "Not Copyable",
+    "records": [
+        {
+            "user": "kitemy",
+            "link": "https://youtu.be/2lJLgjBbBMk",
+            "percent": 100
+        },
+        {
+            "user": "mmzw",
+            "link": "https://www.youtube.com/watch?v=m_clYueCU5M",
+            "percent": 100
+        },
+        {
+            "user": "FlameShooter",
+            "link": "https://www.youtube.com/watch?v=hiGYKjIZ2sk",
+            "percent": 100
+        },
+        {
+            "user": "Attis_TOXIC",
+            "link": "https://www.youtube.com/watch?v=XyxCgic469Q",
+            "percent": 100
+        }
+    ]
+}
